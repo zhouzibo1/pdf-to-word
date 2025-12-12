@@ -1,0 +1,5 @@
+{
+  "name": "AI PDF to Word",
+  "description": "Convert PDF documents to editable Word files using Gemini 2.5 AI for intelligent layout and text extraction.",
+  "requestFramePermissions": []
+}
